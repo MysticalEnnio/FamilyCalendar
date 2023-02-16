@@ -5,6 +5,7 @@ specifiers:
   '@nuxt/image': ^0.7.1
   '@nuxtjs/supabase': ^0.3.1
   '@nuxtjs/tailwindcss': ^6.4.0
+  date-fns: ^2.29.3
   naive-ui: ^2.34.3
   nuxt: ^3.2.0
   vfonts: ^0.0.3
@@ -15,6 +16,7 @@ dependencies:
   '@nuxt/image': 0.7.1
   '@nuxtjs/supabase': 0.3.1
   '@nuxtjs/tailwindcss': 6.4.0
+  date-fns: 2.29.3
   zxcvbn: 4.4.2
 
 devDependencies:
@@ -2537,7 +2539,6 @@ packages:
   /date-fns/2.29.3:
     resolution: {integrity: sha512-dDCnyH2WnnKusqvZZ6+jA1O51Ibt8ZMRNkDZdyAyK4YfbDwa/cEmuztzG5pk6hqlp9aSBPYcjOlktquahGwGeA==}
     engines: {node: '>=0.11'}
-    dev: true
 
   /debug/2.6.9:
     resolution: {integrity: sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==}
